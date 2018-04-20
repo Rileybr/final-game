@@ -32,3 +32,9 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/.unity
     guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/First Level.unity
+    guid: 0c8b136f82e804ee1940aa0a0d964410
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Second Level.unity
+    guid: bd25f74307cfe47bb8ceec52735c1cee

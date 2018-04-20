@@ -39,6 +39,9 @@ TagManager:
   - PlayerDrop
   - Platform
   m_SortingLayers:
+  - name: Background
+    uniqueID: 384334281
+    locked: 0
   - name: Default
     uniqueID: 0
     locked: 0
