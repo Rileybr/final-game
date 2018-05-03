@@ -38,3 +38,6 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/Second Level.unity
     guid: bd25f74307cfe47bb8ceec52735c1cee
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Third Level.unity
+    guid: 2a633743262d84939ae0a359420cc222
